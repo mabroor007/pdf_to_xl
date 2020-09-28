@@ -1,0 +1,17 @@
+{
+  "name": "pdf_to_xl",
+  "version": "1.0.0",
+  "description": "A custom tool for parsing text data from pdf file to xl file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mabroor ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.1.1",
+    "pdf.js-extract": "^0.1.4",
+    "pdfreader": "^1.2.6",
+    "xlsx": "^0.16.7"
+  }
+}
